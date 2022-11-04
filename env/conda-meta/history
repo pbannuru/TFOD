@@ -1,4 +1,4 @@
-==> 2022-11-04 10:45:39 <==
+==> 2022-11-04 12:05:06 <==
 # cmd: C:\Users\pbann\Anaconda3\Scripts\conda-script.py create --prefix ./env python=3.9 -y
 # conda version: 4.10.3
 +defaults/noarch::tzdata-2022f-h04d1e81_0
