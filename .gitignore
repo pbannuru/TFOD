@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 TensorFlow/models
 #C:\Users\pbann\TFOD\TensorFlow\models
+protoc_dir
