@@ -31,5 +31,9 @@ protoc object_detection/protos/*.proto --python_out=.
 cp object_detection/packages/tf2/setup.py .
 python -m pip install .
 
+# create env
+conda create -n tfod python=3.6.9 -y
 # activate venv
 conda activate ./env
+
+pip3 install --upgrade pip setuptools wheel
